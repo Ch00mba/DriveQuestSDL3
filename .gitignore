@@ -1,0 +1,9 @@
+# Visual Studio temporary files
+.vs/
+out/
+build/
+*.user
+
+# CMake caches
+CMakeCache.txt
+CMakeFiles/
